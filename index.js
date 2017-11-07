@@ -29,4 +29,4 @@ class President {
 }
 
 var obama = new President('Barack', 'Democrat', '8', 'Hawaii');
-obama.sayHi();
+console.log(obama.sayHi());
