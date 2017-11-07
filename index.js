@@ -27,6 +27,3 @@ class President {
     return `Hi, my name is ${this.name}. I am from ${this.homeState}. I represent the ${this.politicalParty}s, and was in office ${this.yearsInOffice}.`
   }
 }
-
-var obama = new President('Barack', 'Democrat', '8 years', 'Hawaii');
-console.log(obama.sayHi());
