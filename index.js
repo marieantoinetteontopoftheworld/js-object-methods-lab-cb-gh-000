@@ -16,7 +16,7 @@ class President {
   }
 
   doCharity() {
-    return "I like to help people!"
+    return "I like to help people."
   }
 
   conductPressInterview() {
