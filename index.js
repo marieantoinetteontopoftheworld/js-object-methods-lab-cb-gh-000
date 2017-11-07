@@ -1,5 +1,5 @@
 // code solution here
-class President() {
+class President {
   constructor(name, politcalParty, yearsInOffice, homeState) {
     this.name = name;
     this.politicalParty = politcalParty;
